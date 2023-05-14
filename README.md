@@ -1,4 +1,4 @@
 # ISD1
-Domaci zadatak iz Inteligentnih sistema
+Assignment in Intelligent systems
 
-Simulacija osnovnih algoritama pretrazivanja.
+Simulation of basic search algorithms.
